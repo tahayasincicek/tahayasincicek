@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahayasincicek&show_icons=true&locale=en&layout=compact" alt="tahayasincicek" /></p>
 
-<h3 align="left">Contribution Snake:</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahayasincicek/tahayasincicek/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahayasincicek/tahayasincicek/output/github-contribution-grid-snake.svg">
