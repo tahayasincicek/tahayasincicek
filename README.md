@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Yasin Çiçek</h1>
-<h3 align="center">A software engineering student in Türkiye</h3>
+<h3 align="center">A software engineer in Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahayasincicek&label=Profile%20views&color=0e75b6&style=flat" alt="tahayasincicek" /> </p>
 
