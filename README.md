@@ -4,7 +4,7 @@
 
 
 - 📫 How to reach me **cicektahayasin46@gmail.com**
-- 📫 My portfolio **tahayasincicek.vercel.app**
+- 🌐 My portfolio **[tahayasincicek.vercel.app](https://tahayasincicek.vercel.app)**
 
 
 <h3 align="left">Connect with me:</h3>
